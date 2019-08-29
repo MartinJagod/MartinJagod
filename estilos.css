@@ -1,0 +1,34 @@
+p, h1, h2 {margin:0;}
+body {
+  margin-left: 400px;
+  font-family: verdana, geneva, sans-serif;
+  font-size: 18px;
+  width: 900px
+
+}
+
+h1 {
+
+  font-style: normal;
+  font-size: 37px;
+  font-family: tahoma, helvetica, sans-serif;
+  color:#000000;
+  line-height: 45px;
+
+}
+h2{
+  font-size: 25px;
+  font-weight: 38px
+  font-family: tahoma, helvetica, sans-serif;
+}
+
+h3{
+font-size: 18px;
+font-family: tahoma, helvetica, sans-serif;
+color: #666;
+}
+
+p {
+  width: 800px;
+
+}
